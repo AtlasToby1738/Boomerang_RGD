@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/Character/BP_Character.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/Koa/SAtomicParameters.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/BP_Boumerange.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/Robot/BP_Child_Robot.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/Character/BP_Character.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/BP_Boumerange.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/Robot/BP_Child_Robot.uasset",
