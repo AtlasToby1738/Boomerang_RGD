@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/Character/BP_Character.uasset",
+				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/BP_Boumerange.uasset",
 				"C:/Unreal/RGD/Content/OutOfRange.uasset",
 				"C:/Unreal/RGD/Content/InRange.uasset",
 				"C:/Unreal/RGD/Content/Player.uasset",
