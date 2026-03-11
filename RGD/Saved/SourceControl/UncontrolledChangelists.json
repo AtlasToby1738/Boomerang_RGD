@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/Koa/SAtomicParameters.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Boumerange/Koa/BP_SaveGameBoomerang.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Widgets/WBP_ParametersConfig.uasset",
+				"C:/Users/markm/Documents/GitHub/Boomerang_RGD/RGD/Content/Widgets/WBP_CameraConfig.uasset",
 				"C:/Unreal/RGD/Content/OutOfRange.uasset",
 				"C:/Unreal/RGD/Content/InRange.uasset",
 				"C:/Unreal/RGD/Content/Player.uasset",
