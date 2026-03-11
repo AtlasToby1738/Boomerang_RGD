@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/RGD/Content/OutOfRange.uasset",
+				"C:/Unreal/RGD/Content/InRange.uasset",
+				"C:/Unreal/RGD/Content/Player.uasset",
+				"C:/Unreal/RGD/Content/Enemy.uasset",
+				"C:/Unreal/RGD/Content/Invinsible.uasset",
+				"C:/Unreal/RGD/Content/Destructible.uasset",
+				"C:/Unreal/RGD/Content/NewMap.umap",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_078761D4.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_2D19948E.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_30CBEB06.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_333BADE9.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_4CED8E76.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_6E6E10DB.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_BE4BC37F.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_C56904FA.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_DD253D4F.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_E7AD74AC.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Box_EDCAC752.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Capsule_714A3745.uasset",
+				"C:/Unreal/RGD/Content/_GENERATED/lahbi/Rectangle_1DC679D2.uasset",
+				"C:/Unreal/RGD/Content/Boumerange.umap",
+				"C:/Unreal/RGD/Content/Boumerange/Boumerange.umap",
+				"C:/Unreal/RGD/Content/Boumerange/BP_Boumerange.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/BP_GameMode.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/BP_Character.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/BP_Controller.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/BP_HUD.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/Character/BP_Character.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/Character/BP_Controller.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/Character/BP_GameMode.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/Character/BP_HUD.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/AI_Fire.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/IMC.uasset",
+				"C:/Unreal/RGD/Content/Boumerange/AI_Move.uasset",
+				"C:/Unreal/RGD/Content/OrLimit.uasset",
+				"C:/Unreal/RGD/Content/max.uasset",
+				"C:/Unreal/RGD/Content/Yellow.uasset"
+			]
+		}
+	]
+}
