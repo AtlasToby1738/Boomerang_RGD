@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/Boomerang_RGD/RGD/Content/Boumerange/Character/BP_Character.uasset",
+				"C:/Unreal/Boomerang_RGD/RGD/Content/Boumerange/BP_Boumerange.uasset",
+				"C:/Unreal/Boomerang_RGD/RGD/Content/Boumerange/Zone/BP_Zone.uasset",
+				"C:/Unreal/Boomerang_RGD/RGD/Content/Boumerange/Input/AI_SecondFire.uasset",
+				"C:/Unreal/Boomerang_RGD/RGD/Content/Boumerange/Input/IMC.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/Character/BP_Character.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/BP_Boumerange.uasset",
 				"C:/Unreal/RGD_Boomerang/Boomerang_RGD/RGD/Content/Boumerange/Robot/BP_Child_Robot.uasset",
